@@ -5,3 +5,5 @@ Script findbot.pl from abuseat.org with modification.
 Use: perl findbot.pl /some/path > sometext.txt
 
 after finished scanning, check sometext.txt for the result.
+
+Be carefull, sometimes it catch false alarm.
